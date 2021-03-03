@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://hugo-forestry.netlify.app/products/potato/</loc>
+    <loc>/products/potato/</loc>
   </url><url>
-    <loc>http://hugo-forestry.netlify.app/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://hugo-forestry.netlify.app/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>http://hugo-forestry.netlify.app/products/</loc>
+    <loc>/products/</loc>
   </url><url>
-    <loc>http://hugo-forestry.netlify.app/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

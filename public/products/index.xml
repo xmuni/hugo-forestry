@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Products on My New Hugo Site</title>
-    <link>http://hugo-forestry.netlify.app/products/</link>
-    <description>Recent content in Products on My New Hugo Site</description>
+    <title>Products on CheeseCity</title>
+    <link>/products/</link>
+    <description>Recent content in Products on CheeseCity</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://hugo-forestry.netlify.app/products/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://hugo-forestry.netlify.app/products/potato/</link>
+      <link>/products/potato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://hugo-forestry.netlify.app/products/potato/</guid>
+      <guid>/products/potato/</guid>
       <description></description>
     </item>
     
