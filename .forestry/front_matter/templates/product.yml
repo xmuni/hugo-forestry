@@ -47,4 +47,5 @@ fields:
     required: false
   label: product_url
 pages:
+- content/products/carrier.md
 - content/products/potato.md
